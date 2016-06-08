@@ -5,6 +5,7 @@
 * [Deep Learning tutorials](http://deeplearning.net/tutorial/)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/). Interesante y pedagógico artículo de Andrej Karpathy
 * [Oxford course on Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+* [Tesis de Mokolov](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf) Muy interesante y clara sobre modelos del lenguaje (RNNs) entre otros.
 
 # Software
 
