@@ -4,6 +4,7 @@
 * [Guía de usuario de Lasagne](http://lasagne.readthedocs.io/en/latest/)
 * [Deep Learning tutorials](http://deeplearning.net/tutorial/)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/). Interesante y pedagógico artículo de Andrej Karpathy
+* [Oxford course on Machine Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 
 # Software
 
