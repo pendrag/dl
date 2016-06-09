@@ -10,7 +10,7 @@
 # Software
 
 * [Theano](https://github.com/Theano/Theano). Biblioteca de Python para álgebra lineal con tensores.
-* [Lasagne](https://github.com/Lasagne/Lasagne). Biblioteca de de Python para programación de DNN basada en Theano.
+* [Lasagne](https://github.com/Lasagne/Lasagne). Biblioteca de de Python para programación de DNN basada en Theano. [Aquí](https://github.com/craffel/Lasagne-tutorial/blob/master/examples/tutorial.ipynb) hay un ejemplo de cómo construir LSTMs con él.
 * [Keras](https://github.com/fchollet/keras). Biblioteca de Python para programación de DNN basada en Theano y TensorFlow.
 * [Torch](http://torch.ch/). Machine learning usando lenguaje de script LuaJIT
 * [char-rnn](https://github.com/karpathy/char-rnn). RNN, LTSM y más modelos de redes neuronales profundas implementadas en Lua (Torch)
