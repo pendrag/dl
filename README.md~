@@ -2,8 +2,7 @@
 
 * [NVIDIA Deep Learning courses](https://developer.nvidia.com/deep-learning-courses)
 * [Guía de usuario de Lasagne](http://lasagne.readthedocs.io/en/latest/)
-* [Deep Learning tutorials](http://deeplearning.net/tutorial/). Versión web del "Deep Learning Tutorial" de los de Montreal con Theano.
-* [TensorFlow tutorial](https://www.tensorflow.org/versions/r0.9/tutorials/recurrent/index.html#recurrent-neural-networks). Este tutorial es tan bueno como el de los de Montreal, pero con TensorFlow en lugar de con Theano.
+* [Deep Learning tutorials](http://deeplearning.net/tutorial/)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/). Interesante y pedagógico artículo de Andrej Karpathy
 
 # Software
